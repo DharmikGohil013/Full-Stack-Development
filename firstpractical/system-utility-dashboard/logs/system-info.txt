@@ -1,0 +1,23 @@
+
+    System Information:
+    OS Type: Windows_NT
+    Total Memory: 15.65 GB
+    Free Memory: 3.66 GB
+    CPU Details:
+      CPU 1: 13th Gen Intel(R) Core(TM) i5-1340P
+  CPU 2: 13th Gen Intel(R) Core(TM) i5-1340P
+  CPU 3: 13th Gen Intel(R) Core(TM) i5-1340P
+  CPU 4: 13th Gen Intel(R) Core(TM) i5-1340P
+  CPU 5: 13th Gen Intel(R) Core(TM) i5-1340P
+  CPU 6: 13th Gen Intel(R) Core(TM) i5-1340P
+  CPU 7: 13th Gen Intel(R) Core(TM) i5-1340P
+  CPU 8: 13th Gen Intel(R) Core(TM) i5-1340P
+  CPU 9: 13th Gen Intel(R) Core(TM) i5-1340P
+  CPU 10: 13th Gen Intel(R) Core(TM) i5-1340P
+  CPU 11: 13th Gen Intel(R) Core(TM) i5-1340P
+  CPU 12: 13th Gen Intel(R) Core(TM) i5-1340P
+  CPU 13: 13th Gen Intel(R) Core(TM) i5-1340P
+  CPU 14: 13th Gen Intel(R) Core(TM) i5-1340P
+  CPU 15: 13th Gen Intel(R) Core(TM) i5-1340P
+  CPU 16: 13th Gen Intel(R) Core(TM) i5-1340P
+    
