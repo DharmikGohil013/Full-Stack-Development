@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Smartphone",
+        "category": "electronics",
+        "price": 299.99
+    },
+    {
+        "id": 2,
+        "name": "Laptop",
+        "category": "electronics",
+        "price": 799.99
+    },
+    {
+        "id": 3,
+        "name": "Coffee Maker",
+        "category": "appliances",
+        "price": 49.99
+    },
+    {
+        "id": 4,
+        "name": "Headphones",
+        "category": "electronics",
+        "price": 99.99
+    }
+]
